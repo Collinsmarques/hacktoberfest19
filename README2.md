@@ -5,11 +5,9 @@
 ```c#
 class Program {
    public static void Main(String[] args) {
-      System.Console.WriteLine("Hello Haron");
+      System.Console.WriteLine("Hello Haron")!
    }
 }
-##kotlin##
-fun helloWorld<String>{
-   print(hello world) as String
-}
 ```
+
+
